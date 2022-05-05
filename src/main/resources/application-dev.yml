@@ -1,0 +1,4 @@
+spring:
+    # Templates reloading during development
+    thymeleaf:
+        cache: false
